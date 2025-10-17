@@ -71,5 +71,17 @@ Artificially introduced Missing At Random (MAR) values in:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
+## 💻 Usage
+
+### Prerequisites
+- Ensure the dataset `UCI_Credit_Card.csv` is in the working directory
+- Required Python packages: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+
+### Running the Analysis
+
+1. **Start Jupyter Notebook**:
+   ```bash
+   jupyter notebook ED22B020_HW6.ipynb
 
 
