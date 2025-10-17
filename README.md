@@ -67,3 +67,9 @@ Artificially introduced Missing At Random (MAR) values in:
 - KNN captures more complex relationships than linear regression
 
 
+## 🛠️ Installation & Requirements
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
